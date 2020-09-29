@@ -1,4 +1,3 @@
-/*profile                      = "infy-terraform"*/
 region                       = "us-east-1"
 
 ami                          = "ami-06f6f33114d2db0b1"

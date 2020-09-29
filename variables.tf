@@ -1,9 +1,3 @@
-/*variable "profile" {
-  description   = "AWS default profile"
-  type          = string
-  default       = ""
-}*/
-
 variable "region" {
   description   = "AWS default region"
   type          = string

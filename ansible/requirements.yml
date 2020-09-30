@@ -1,0 +1,5 @@
+---
+- src: git@github.com:kashwin92/ansible-iis.git
+  scm: git
+  version: master
+  name: iis

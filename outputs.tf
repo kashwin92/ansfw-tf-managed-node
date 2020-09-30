@@ -1,4 +1,4 @@
-output "win_admin-pwd" {
+output "win_admin_pwd" {
   value = module.aws-ec2-win2016.Administrator_Password
 }
 

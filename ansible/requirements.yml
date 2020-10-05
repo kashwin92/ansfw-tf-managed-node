@@ -2,4 +2,9 @@
 - src: https://github.com/kashwin92/combined-repo-ansfw.git
   scm: git
   version: master
-  name: iis, dotnet472
+  name: iis
+
+- src: https://github.com/kashwin92/combined-repo-ansfw.git
+  scm: git
+  version: master
+  name: dotnet472
